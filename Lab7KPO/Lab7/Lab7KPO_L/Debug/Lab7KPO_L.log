@@ -1,0 +1,26 @@
+﻿Сборка начата 01.04.2022 18:29:51.
+Уровень детализации журнала: Normal.     1>Проект "D:\Lab7KPO\Lab7\Lab7KPO_L\Lab7KPO_L.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Debug\Lab7KPO_L.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"D:\Lab7KPO\Lab7\Debug\Lab7KPO_L.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt Dictionary.cpp
+         Dictionary.cpp
+     1>D:\Lab7KPO\Lab7\Lab7KPO_L\Dictionary.cpp(55): warning C4715: Dictionary::GetEntry: значение возвращается не при всех путях выполнения
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\Lib.exe /OUT:"D:\Lab7KPO\Lab7\Debug\Lab7KPO_L.lib" /NOLOGO /MACHINE:X86 Debug\Dictionary.obj
+         Lab7KPO_L.vcxproj -> D:\Lab7KPO\Lab7\Debug\Lab7KPO_L.lib
+       FinalizeBuildStatus:
+         Файл "Debug\Lab7KPO_L.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\Lab7KPO_L.tlog\Lab7KPO_L.lastbuildstate".
+     1>Сборка проекта "D:\Lab7KPO\Lab7\Lab7KPO_L\Lab7KPO_L.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "D:\Lab7KPO\Lab7\Lab7KPO_L\Lab7KPO_L.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         D:\Lab7KPO\Lab7\Lab7KPO_L\Dictionary.cpp(55): warning C4715: Dictionary::GetEntry: значение возвращается не при всех путях выполнения
+
+    Предупреждений: 1
+    Ошибок: 0
+
+Прошло времени 00:00:01.58

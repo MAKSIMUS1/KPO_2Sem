@@ -1,0 +1,25 @@
+﻿Сборка начата 18.02.2022 15:41:18.
+Уровень детализации журнала: Normal.     1>Проект "D:\БГТУ Лабы, лекции и тд\Курс_1_2\КПО\Лабораторные\Лаб #2\Lab_2_KOP\Lab_2_KOP\Lab_2_KOP.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\Lab_2_KOP.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt Func_sum.cpp Lab_2_KOP.cpp
+         Func_sum.cpp
+         Lab_2_KOP.cpp
+         Создание кода...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"D:\БГТУ Лабы, лекции и тд\Курс_1_2\КПО\Лабораторные\Лаб #2\Lab_2_KOP\Debug\Lab_2_KOP.exe" /INCREMENTAL /ILK:"Debug\Lab_2_KOP.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\БГТУ Лабы, лекции и тд\Курс_1_2\КПО\Лабораторные\Лаб #2\Lab_2_KOP\Debug\Lab_2_KOP.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\БГТУ Лабы, лекции и тд\Курс_1_2\КПО\Лабораторные\Лаб #2\Lab_2_KOP\Debug\Lab_2_KOP.lib" /MACHINE:X86 Debug\Func_mul.obj
+         Debug\Func_sub.obj
+         Debug\Func_sum.obj
+         Debug\Lab_2_KOP.obj
+         Lab_2_KOP.vcxproj -> D:\БГТУ Лабы, лекции и тд\Курс_1_2\КПО\Лабораторные\Лаб #2\Lab_2_KOP\Debug\Lab_2_KOP.exe
+       FinalizeBuildStatus:
+         Файл "Debug\Lab_2_KOP.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\Lab_2_KOP.tlog\Lab_2_KOP.lastbuildstate".
+     1>Сборка проекта "D:\БГТУ Лабы, лекции и тд\Курс_1_2\КПО\Лабораторные\Лаб #2\Lab_2_KOP\Lab_2_KOP\Lab_2_KOP.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:01.00

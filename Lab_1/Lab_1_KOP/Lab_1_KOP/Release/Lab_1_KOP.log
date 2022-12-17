@@ -1,0 +1,36 @@
+﻿Сборка начата 18.02.2022 14:16:03.
+Уровень детализации журнала: Normal.     1>Проект "D:\БГТУ Лабы, лекции и тд\Курс_1_2\КПО\Лабораторные\Лаб #1\Lab_1_KOP\Lab_1_KOP\Lab_1_KOP.vcxproj" в узле 2 (целевые объекты Rebuild).
+     1>_PrepareForClean:
+         Файл "Release\Lab_1_KOP.tlog\Lab_1_KOP.lastbuildstate" удаляется.
+       InitializeBuildStatus:
+         Создание "Release\Lab_1_KOP.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\CL.exe /c /Zi /nologo /W3 /WX- /diagnostics:column /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Release\\" /Fd"Release\vc142.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt Lab_1_KOP.cpp
+         Lab_1_KOP.cpp
+     1>D:\Correct_Input.h(25,22): warning C4018: <: несоответствие типов со знаком и без знака
+     1>D:\Correct_Input.h(35,22): warning C4018: <: несоответствие типов со знаком и без знака
+     1>D:\БГТУ Лабы, лекции и тд\Курс_1_2\КПО\Лабораторные\Лаб #1\Lab_1_KOP\Lab_1_KOP\Lab_1_KOP.cpp(14,7): warning C4101: d2: неиспользованная локальная переменная
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"D:\БГТУ Лабы, лекции и тд\Курс_1_2\КПО\Лабораторные\Лаб #1\Lab_1_KOP\Release\Lab_1_KOP.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\БГТУ Лабы, лекции и тд\Курс_1_2\КПО\Лабораторные\Лаб #1\Lab_1_KOP\Release\Lab_1_KOP.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG:incremental /LTCGOUT:"Release\Lab_1_KOP.iobj" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\БГТУ Лабы, лекции и тд\Курс_1_2\КПО\Лабораторные\Лаб #1\Lab_1_KOP\Release\Lab_1_KOP.lib" /MACHINE:X86 /SAFESEH Release\Lab_1_KOP.obj
+         Создание кода
+         Previous IPDB not found, fall back to full compilation.
+         All 9 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+         Создание кода завершено
+         Lab_1_KOP.vcxproj -> D:\БГТУ Лабы, лекции и тд\Курс_1_2\КПО\Лабораторные\Лаб #1\Lab_1_KOP\Release\Lab_1_KOP.exe
+       FinalizeBuildStatus:
+         Файл "Release\Lab_1_KOP.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Release\Lab_1_KOP.tlog\Lab_1_KOP.lastbuildstate".
+     1>Сборка проекта "D:\БГТУ Лабы, лекции и тд\Курс_1_2\КПО\Лабораторные\Лаб #1\Lab_1_KOP\Lab_1_KOP\Lab_1_KOP.vcxproj" завершена (целевые объекты Rebuild).
+
+Сборка успешно завершена.
+
+       "D:\БГТУ Лабы, лекции и тд\Курс_1_2\КПО\Лабораторные\Лаб #1\Lab_1_KOP\Lab_1_KOP\Lab_1_KOP.vcxproj" (целевой объект Rebuild ) (1) ->
+       (Целевой объект ClCompile) -> 
+         D:\Correct_Input.h(25,22): warning C4018: <: несоответствие типов со знаком и без знака
+         D:\Correct_Input.h(35,22): warning C4018: <: несоответствие типов со знаком и без знака
+         D:\БГТУ Лабы, лекции и тд\Курс_1_2\КПО\Лабораторные\Лаб #1\Lab_1_KOP\Lab_1_KOP\Lab_1_KOP.cpp(14,7): warning C4101: d2: неиспользованная локальная переменная
+
+    Предупреждений: 3
+    Ошибок: 0
+
+Прошло времени 00:00:00.87
